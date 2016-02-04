@@ -1,7 +1,7 @@
 name: 'Ulmas & Co'
 favicon: null
-layout_spectrum: 0.6708624963648617
-typography_spectrum: 0.5415982911363244
+layout_spectrum: 1
+typography_spectrum: 0.75487
 cta:
   domain: null
   bucket: null
