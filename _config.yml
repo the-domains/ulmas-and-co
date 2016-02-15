@@ -1,7 +1,7 @@
 name: 'Ulmas & Co'
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75487
+layout_spectrum: 0.49754
+typography_spectrum: 0.7408
 title: 'Ulmas & Co'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7608658208046108
-  lightness: 0.42359806201420724
-  saturation: 0.36229503550566733
-  rhythmicContrast: 0.2328440072014928
+    - '#182042'
+    - '#5f5e5a'
+    - '#a5b9b9'
+    - '#8f999c'
+    - '#c6daea'
+  brandStrength: 0.5625
+  lightness: 0.4375
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
