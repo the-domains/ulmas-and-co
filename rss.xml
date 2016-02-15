@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ulmas & Co]]></title>
         <description><![CDATA[Ulmas & Co]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ulmas.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:16:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 18:48:43 GMT</lastBuildDate>
+        <atom:link href="http://ulmas.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <description><![CDATA[<h1>Hello</h1>]]></description>
+            <link>http://ulmas.eu/hello/index.html</link>
+            <guid isPermaLink="false">0b8951f9-162a-47f1-9c3b-b765c63019a8</guid>
+            <pubDate>Mon, 15 Feb 2016 18:48:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ulmas & Co</p>]]></description>
-            <link>undefined3b83a0cc-4e32-4f35-a66c-ad0d4cd86718/index.html</link>
+            <link>http://ulmas.eu/3b83a0cc-4e32-4f35-a66c-ad0d4cd86718/index.html</link>
             <guid isPermaLink="false">3b83a0cc-4e32-4f35-a66c-ad0d4cd86718</guid>
             <pubDate>Mon, 15 Feb 2016 18:16:00 GMT</pubDate>
         </item>
