@@ -2,6 +2,7 @@ name: 'Ulmas & Co'
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75487
+title: 'Ulmas & Co'
 cta:
   domain: null
   bucket: null
